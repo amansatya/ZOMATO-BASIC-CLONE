@@ -8,9 +8,9 @@ Hi myswlf **SATYA AMAN** a web-developer and computer science aficionado.
 
 ## FEATURES
 
--This project has a basic clone of zomato webpage.
--Used of practice and educational purpose.
--Just for basic learning.
+- This project has a basic clone of zomato webpage.                                                                                                                           
+- Used of practice and educational purpose.                                                                                                                                  
+- Just for basic learning.
 
 ## Installation
 
