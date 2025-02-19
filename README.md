@@ -14,7 +14,7 @@ Hi myself **SATYA AMAN** a web-developer and computer science aficionado.
 
 ## Installation
 
-To run the keylogger, follow these steps:
+To run the webpage, follow these steps:
 
 1. Clone the repository:
    ```bash
