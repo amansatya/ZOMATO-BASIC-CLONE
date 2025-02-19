@@ -2,11 +2,11 @@
 
 BASIC CLONE OF ZOMATO WEBPAGE USING **HTML, CSS AND JAVASCRIPT ONLY**
 
-##INTRODUCTION
+## INTRODUCTION
 
 Hi myswlf **SATYA AMAN** a web-developer and computer science aficionado.
 
-##FEATURES
+## FEATURES
 
 -This project has a basic clone of zomato webpage.
 -Used of practice and educational purpose.
