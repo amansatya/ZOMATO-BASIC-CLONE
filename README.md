@@ -4,7 +4,7 @@ BASIC CLONE OF ZOMATO WEBPAGE USING **HTML, CSS AND JAVASCRIPT ONLY**
 
 ## INTRODUCTION
 
-Hi myswlf **SATYA AMAN** a web-developer and computer science aficionado.
+Hi myself **SATYA AMAN** a web-developer and computer science aficionado.
 
 ## FEATURES
 
