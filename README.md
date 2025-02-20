@@ -42,7 +42,8 @@ ZOMATO-BASIC-CLONE/
 3. Modify `style.css` or `script.js` as needed to customize the project.
 
 ## 📷 Screenshots
-![Project Screenshot](IMAGES/Screenshot.png)
+![Project Screenshot 1](IMAGES/Screenshot1.png)  
+![Project Screenshot 2](IMAGES/Screenshot2.png)
 
 ## 🎯 Future Enhancements
 - Add **API integration** for real-time restaurant data.
