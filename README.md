@@ -18,7 +18,8 @@ ZOMATO-BASIC-CLONE/
 │── IMAGES/             # Contains images used in the project
 │    ├── bg.png         # Background image
 │    ├── logo.png       # Logo image
-│    ├── Screenshot.png # Screenshot of the project
+│    ├── Screenshot1.png # Screenshot of the project
+│    ├── Screenshot2.png # Screenshot of the project
 │── index.html          # Main landing page
 │── investor.html       # Additional page (e.g., investor info)
 │── style.css           # Stylesheet for the project
