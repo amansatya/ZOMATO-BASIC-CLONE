@@ -46,6 +46,9 @@ ZOMATO-BASIC-CLONE/
 ![Project Screenshot 1](IMAGES/Screenshot1.png)  
 ![Project Screenshot 2](IMAGES/Screenshot2.png)
 
+## ✨ Live Demo
+[Click here to view](https://amansatya.github.io/ZOMATO-BASIC-CLONE/)
+
 ## 🎯 Future Enhancements
 - Add **API integration** for real-time restaurant data.
 - Implement **search filtering** for better usability.
