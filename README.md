@@ -60,6 +60,11 @@ Feel free to fork this repository, raise issues, or submit pull requests! 😊
 ## 📜 License
 This project is for educational purposes and follows an open-source approach.
 
+## 📬 Contact
+- **Email:** satyaaman1012@gmail.com
+- **LinkedIn:** [Satya Aman](https://www.linkedin.com/in/satya-aman-00938a318/)
+- **Instagram:** [Profile](https://www.instagram.com/amansatya_10/)
+
 ---
 💡 **Developed by [Aman Satya](https://github.com/amansatya)**
 
